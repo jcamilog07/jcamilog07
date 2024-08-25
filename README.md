@@ -35,6 +35,12 @@
 <img align="left" alt="Numpy" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Tidyverse_hex_logo.png" />
 <img align="left" alt="Numpy" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ggplot2_hex_logo.png/778px-Ggplot2_hex_logo.png?20240522021950" />
 <img align="left" alt="Numpy" width="70px" src="https://i.redd.it/w2km14a81yy41.png" />
+<img align="left" alt="Numpy" width="70px" src="https://rstudio.github.io/shiny/reference/figures/logo.png" />
+<img align="left" alt="Numpy" width="70px" src="https://rstudio.github.io/cheatsheets/html/images/logo-devtools.png" />
+<img align="left" alt="Numpy" width="70px" src="https://privefl.github.io/R-presentation/rmarkdown.png" />
+<img align="left" alt="Numpy" width="70px" src="https://jminnier-berd-r-courses.netlify.app/03-rmarkdown/img/hex_knitr-200x232.png" />
+
+
 
 <br>
 <br>
