@@ -39,7 +39,7 @@
 <img align="left" alt="Numpy" width="70px" src="https://rstudio.github.io/cheatsheets/html/images/logo-devtools.png" />
 <img align="left" alt="Numpy" width="70px" src="https://privefl.github.io/R-presentation/rmarkdown.png" />
 <img align="left" alt="Numpy" width="70px" src="https://jminnier-berd-r-courses.netlify.app/03-rmarkdown/img/hex_knitr-200x232.png" />
-
+<img align="left" alt="Numpy" width="70px" src="https://rstudio.github.io/r2d3/reference/figures/r2d3-hex.png" />
 
 
 <br>
