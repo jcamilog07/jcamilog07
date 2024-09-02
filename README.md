@@ -17,7 +17,7 @@
 <img align="left" alt="MongoDB" width="70px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" />
 <img align="left" alt="PowerBi" width="70px" src="https://images.saasworthy.com/microsoftpowerbidesktop_11508_logo_1667376730_vyfzp.png" />
 <img align="left" alt="GoogleColab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
-<img align="left" alt="GoogleColab" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlquQbehFaMuUwUN32KhAS4AxK7WTUtKuZBQ&s" />
+<img align="left" alt="Jupyter" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlquQbehFaMuUwUN32KhAS4AxK7WTUtKuZBQ&s" />
 <img align="left" alt="Tableu" width="70px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 <br>
 <br>
@@ -32,14 +32,14 @@
 <br>
 
 ### Libraries For R: 
-<img align="left" alt="Numpy" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Tidyverse_hex_logo.png" />
-<img align="left" alt="Numpy" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ggplot2_hex_logo.png/778px-Ggplot2_hex_logo.png?20240522021950" />
-<img align="left" alt="Numpy" width="70px" src="https://i.redd.it/w2km14a81yy41.png" />
-<img align="left" alt="Numpy" width="70px" src="https://rstudio.github.io/shiny/reference/figures/logo.png" />
-<img align="left" alt="Numpy" width="70px" src="https://rstudio.github.io/cheatsheets/html/images/logo-devtools.png" />
-<img align="left" alt="Numpy" width="70px" src="https://privefl.github.io/R-presentation/rmarkdown.png" />
-<img align="left" alt="Numpy" width="70px" src="https://jminnier-berd-r-courses.netlify.app/03-rmarkdown/img/hex_knitr-200x232.png" />
-<img align="left" alt="Numpy" width="70px" src="https://rstudio.github.io/r2d3/reference/figures/r2d3-hex.png" />
+<img align="left" alt="Tidyverse" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Tidyverse_hex_logo.png" />
+<img align="left" alt="Ggplo2" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ggplot2_hex_logo.png/778px-Ggplot2_hex_logo.png?20240522021950" />
+<img align="left" alt="Dplyr" width="70px" src="https://i.redd.it/w2km14a81yy41.png" />
+<img align="left" alt="Shiny" width="70px" src="https://rstudio.github.io/shiny/reference/figures/logo.png" />
+<img align="left" alt="Devtools" width="70px" src="https://rstudio.github.io/cheatsheets/html/images/logo-devtools.png" />
+<img align="left" alt="Markdown" width="70px" src="https://privefl.github.io/R-presentation/rmarkdown.png" />
+<img align="left" alt="Knitr" width="70px" src="https://jminnier-berd-r-courses.netlify.app/03-rmarkdown/img/hex_knitr-200x232.png" />
+<img align="left" alt="R2d3" width="70px" src="https://rstudio.github.io/r2d3/reference/figures/r2d3-hex.png" />
 
 
 <br>
